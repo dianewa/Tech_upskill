@@ -1,0 +1,146 @@
+ body{
+    position: relative;
+width: 872px;
+height: 763px;
+
+background: #FFFFFF;
+ }  
+  #title_bar{
+      text-align: center;
+background: #53C26B;
+}
+td1{
+    position: absolute;
+width: 95px;
+height: 19px;
+left: 32px;
+top: 23px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #0D25FF;
+
+}
+td2{
+    position: absolute;
+width: 83px;
+height: 30px;
+left: 220px;
+top: 13px;
+
+background: #53C26B;
+}
+td3{
+    position: absolute;
+width: 78px;
+height: 30px;
+left: 321px;
+top: 13px;
+
+background: #53C26B;
+}
+td4{
+    position: absolute;
+width: 92px;
+height: 30px;
+left: 421px;
+top: 13px;
+
+background: #53C26B;
+}
+td5{
+    position: absolute;
+width: 87px;
+height: 30px;
+left: 530px;
+top: 13px;
+
+background: #53C26B;
+}
+td6{
+    position: absolute;
+width: 91px;
+height: 28px;
+left: 637px;
+top: 15px;
+
+background: #53C26B;
+}
+td7{
+    position: absolute;
+width: 140px;
+height: 30px;
+left: 737px;
+top: 13px;
+
+background: #53C26B;
+}
+#porti{
+    position: absolute;
+width: 117.08px;
+height: 14.94px;
+left: 24.43px;
+top: 32.26px;
+
+background: #0C3FF7;
+
+}
+#photo1{
+    position: absolute;
+width: 173.9px;
+height: 217.99px;
+left: 34.91px;
+top: 106px;
+
+background: url(ecommerce-online-shop-design.jpg);
+transform: rotate(-89.93deg);
+}
+#photo2{
+position: absolute;
+width: 212px;
+height: 168px;
+left: 318px;
+top: 106px;
+
+background: url( );
+}
+#photo3{
+    position: absolute;
+width: 223px;
+height: 182px;
+left: 607px;
+top: 92px;
+
+background: url(rooster);
+}
+#photo4{
+    position: absolute;
+width: 204px;
+height: 272px;
+left: 49px;
+top: 362px;
+
+background: url(FE.jpg);
+}
+#photo5{
+    position: absolute;
+width: 247px;
+height: 272px;
+left: 331px;
+top: 362px;
+
+background: url(baby-clothing-homepage-design.jpg);
+}
+#photo6{
+position: absolute;
+width: 240px;
+height: 272px;
+left: 607px;
+top: 362px;
+
+background: url(digital-generated-devices-on-desktop-260nw-1495869476.png);
+}
